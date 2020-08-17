@@ -44,13 +44,13 @@ a {
 }
 @keyframes colorchange {
   0% {
-    background: #6634BA;
+    background: #6699ff;
   }
   25% {
-    background: #ccccff;
+    background: #6D7D98;
   }
   50% {
-    background: #e6e6ff;
+    background: #6B91B0;
   }
   75% {
     background: #99bbff;
@@ -62,19 +62,19 @@ a {
 @-webkit-keyframes colorchange {
   /* Safari and Chrome - necessary duplicate */
   0% {
-    background: #020124;
+    background: #6699ff;
   }
   25% {
-    background: #48007F;
+    background: #6D7D98;
   }
   50% {
-    background: #6634BA;
+    background: #6B91B0;
   }
   75% {
-    background: #2F2D45;
+    background: #99bbff;
   }
   100% {
-    background: #020124;
+    background: #6699ff;
   }
 }
 .clear {

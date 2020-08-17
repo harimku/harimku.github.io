@@ -44,19 +44,19 @@ a {
 }
 @keyframes colorchange {
   0% {
-    background: #020124;
-  }
-  25% {
-    background: #48007F;
-  }
-  50% {
     background: #6634BA;
   }
+  25% {
+    background: #ccccff;
+  }
+  50% {
+    background: #e6e6ff;
+  }
   75% {
-    background: #2F2D45;
+    background: #99bbff;
   }
   100% {
-    background: #020124;
+    background: #6699ff;
   }
 }
 @-webkit-keyframes colorchange {
@@ -134,7 +134,7 @@ a {
   display: block;
   margin-left: 500px;
   padding-top: 280px;
-  width: 400px;
+  width: 700px;
 }
 .container .main .description span {
   color: white;
